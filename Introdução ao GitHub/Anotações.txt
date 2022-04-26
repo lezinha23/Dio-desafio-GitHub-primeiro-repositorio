@@ -1,0 +1,2 @@
+Link para dowload do Git: https://git-scm.com/download/win
+O Git bash é um terminal entendido para utilizar o uso do Git.
